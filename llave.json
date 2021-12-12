@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-sri-hlc",
+  "private_key_id": "12a15f8ed9bb0abf60b324e4a1fa38a511cee894",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCYLOmOPIr1h/Wl\nBXnTGuFgzrmEXrYITk7jO3QJaa9oaN5LApabMJtFPxbz29JdwQ0rd+bQ/Ec+IvFO\nuokSQwJY0zJ2TbTI35s3bm+Hf9fpbyULWUk9dOKpUlURM2HPsD9lRokeM8j1W8XZ\nClvw+tayF5i/AG16To9EHBKEhxtM4sGjCACTvWQQzP6aDsRiD6nF5aOw69Nbxzyw\nVHFpuL/TnyF5j/XB+P4s1kWj2Y51t3h0yN0GpmhaDuarPZvcInc8WotLi6hl6Xwl\nZD23vmkVNJLLb17u44gaAKUBgsfb/JgNrAolkzIIjpLhJ4XDW5cbT0maudFoO2bW\nRaXBpKJNAgMBAAECggEAEw8M8VOD09yDV3eoGlhzgbxiX8G86q1kE/GORt+FqH35\n2UspsaYUzEdqiIAviK51B8ysi+AMzCt0LXgPUsoxsQ5Cc66nxcC7n+Wk8kOAtyvE\nZ/d2xMuu16YIIW9eALUCO5zp725s7M3hqZ0yhqvj18o8xy82hurv5ofdiduh/671\nNu7ugzJ/EJXrKybkwlFelXcefH7PXUnI5btMqiwbuwj7OTLdVYpkG6j7fdrVad5p\n4D8/uQ3LORTKZQgmOL6lCwVy/qsqfT2kX/lh/5+Jy0GwuQrPb6EL0HQMvf05jlu9\nwpTJc04MTrCljUtxAhxvvZ1yztUNefbBOtvAQ8LcAQKBgQDNV/cXem9D3BbU80Ea\nV2R3WozPREHnUvOWlWJ4zHTneyayilLGGh8mJAo36S8GfV9E/WDa/Y4BCr/FGgqx\nqbRb4Xqf8tjBlal3qdU/RwDDGenbTEkbsZQPRFMjFGuPAookslPPGaonKuDkWxJu\nU+i8TJ63UZVqba9MFAaIoj2D/QKBgQC9tzmpKD6V4TgKrbm0u6Gv9eXuQtR34h3P\nihjSBMnmGHK/tWllScsSO0oVgBU4eniFWS4fOBTG6IJsHVh9Ya+MVQ7ju5Au6PKe\nQb3XPEuTrhVyS+Oguwy+psYMF7IvAbPxqZy4jGzMFylOxmz5EjXqdnMtmT13+eqR\n+buF7uZgkQKBgQCjOS8CDKJw8Ht9nja7t4f2j5WqE3nHZNqXcfsqRmsOrYefF/Cf\n45eq+67brpFguTuHXVkl+bJtBZxWElM50cm510tf5OuDRXHF2svVVp02eFy5orPi\nPY+RayAinFK7BKvGa7HOx3nHVIAbRIEsDarMMqNe2IzKYpGbCbf/1+bKCQKBgQCM\n8b/r1VNR5IXPISvzguZnpMcTESFqg1nkY1N3TEl3Ibi2hp9rubwdqmCqwoKBeDNr\n1kp2tSJyeDDVA6RHWjiiiFrMg/9lank9a9gPPONlLxMN3CWbtvuL9Lj0KPKfC6PV\nKU6eqOz3X0m4FaDGFmpp62A8gzlwlgJYOvG/WjJbkQKBgQCtxwNBtPtMTwIe3tD+\nY8jI9NEI8Es9dVlKOVsBaMjJz5OcmVMN6P8ukN7CdY89k+Bklk0E6CPHwJGpl0ER\nszg3AF6oQw7Wwi020rosom5uTVSpQ46LG73g5LL6trrJBTCC6hyhiN9NYZ/Q9vLU\nrnA1CYWfJQHzRYhOkzAtQKXdpA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kubernetes@proyecto-sri-hlc.iam.gserviceaccount.com",
+  "client_id": "106593118118211235826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kubernetes%40proyecto-sri-hlc.iam.gserviceaccount.com"
+}
